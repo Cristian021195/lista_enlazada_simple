@@ -1,0 +1,15 @@
+1. Escriba una tipificación adecuada que defina LISTA como una lista enlazada. 
+2. Escriba las siguientes funciones básicas de lista enlazada: 
+a) crearLista: crea una lista vacía. 
+b) esListaVacia: booleana, determina si la lista está vacía. 
+c) mostrar: muestra por pantalla el contenido de los nodos de la lista. 
+d) primerElemento: retorna el contenido del primer elemento de la lista. 
+e) insertar: inserta un nodo al comienzo de la lista. 
+f) borrar: borra el nodo del comienzo de la lista. 
+g) longitud: cuenta la cantidad de nodos que tiene una lista. 
+h) pertenece: booleana, determina si un dato pertenece a la lista. 
+i) borrarUltimo: borra el nodo del final de la lista. 
+3. Como usuario de la lista enlazada implemente una función de nombre iguales que, dadas dos listas 
+enlazadas de números enteros, retorne verdadero si los contenidos de los nodos de las listas son 
+iguales. 
+4. Escriba un programa que le permita probar todas las funciones de la lista. 
